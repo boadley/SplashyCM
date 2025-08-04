@@ -37,7 +37,7 @@ Welcome! This guide will walk you through installing, activating, and configurin
     ![Image: Screenshot of the Chrome extensions page with the "Load unpacked" button highlighted.](https://github.com/boadley/SplashyCM/blob/main/Screenshot_3.png)
 
 4.  A file dialog will open. Navigate to and select the **unzipped folder** from Step 1.
-5.  The "X Pro - AI Auto Like & Reply Bot" will now appear in your list of extensions. We recommend **pinning it** to your toolbar for easy access.
+5.  The "Splashy CM - AI Auto Like & Reply Bot" will now appear in your list of extensions. We recommend **pinning it** to your toolbar for easy access.
 
     ![Image: Screenshot showing the extension's card in the `chrome://extensions` list, with an arrow pointing to the pin icon in the Chrome toolbar.](https://github.com/boadley/SplashyCM/blob/main/Screenshot_4.png)
 
