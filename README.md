@@ -4,19 +4,19 @@ Your AI Community Manager for X <-> AI Auto Like & Reply Bot
 
 # Splash CM: Installation & Usage Guide
 
-Welcome! This guide will walk you through installing, activating, and configuring the Splash CM to perfectly match your engagement style.
+Welcome! This guide will walk you through installing, activating, and configuring the Splash CM extension to perfectly match your engagement style.
 
 ## ⭐ Prerequisites
 
 *   **Google Chrome** (or a Chromium-based browser like Brave or Edge).
-*   The **`x-pro-ai-bot.zip`** file you received after purchase.
+*   Download **`SplashyCM_extension.zip`** file. [**Click to download SplashyCM_extension.zip**](https://github.com/boadley/SplashyCM/releases/download/v1.0.0/SplashyCM_extension.zip).
 *   Your personal **API Key**, which was sent to your email.
 
 ---
 
 ## Step 1: Download & Unzip the Extension
 
-1.  Locate the `x-pro-ai-bot.zip` file on your computer.
+1.  Locate the `SplashyCM_extension.zip` file on your computer.
 2.  **Unzip/Extract** the file. This will create a new folder. Remember where you saved this folder, as you will need it shortly.
 
 > **Important:** You are not installing the `.zip` file itself, but rather loading the entire **unzipped folder** into Chrome.
@@ -102,4 +102,4 @@ The bot will now begin monitoring your specified columns for new tweets!
 
 For a complete visual walkthrough, please watch our installation guide on YouTube:
 
-➡️ **[Link to Your YouTube Installation Video Here]**
+➡️ **[Link to Your YouTube Installation Video COMING SOON]**
