@@ -21,7 +21,7 @@ Welcome! This guide will walk you through installing, activating, and configurin
 
 > **Important:** You are not installing the `.zip` file itself, but rather loading the entire **unzipped folder** into Chrome.
 
-[Image: A screenshot showing the downloaded .zip file next to the newly created unzipped folder.]
+![Image: A screenshot showing the downloaded .zip file next to the newly created unzipped folder](https://github.com/boadley/SplashyCM/blob/main/Screenshot_1.png)
 
 ---
 
@@ -30,16 +30,16 @@ Welcome! This guide will walk you through installing, activating, and configurin
 1.  Open Google Chrome, type **`chrome://extensions`** into your address bar, and press **Enter**.
 2.  In the top-right corner, enable **"Developer mode"**.
 
-    [Image: Screenshot of the Chrome extensions page with an arrow pointing to the "Developer mode" toggle switch, showing it being enabled.]
+    ![Image: Screenshot of the Chrome extensions page with an arrow pointing to the "Developer mode" toggle switch, showing it being enabled.](https://github.com/boadley/SplashyCM/blob/main/Screenshot_2.png)
 
 3.  Three new buttons will appear. Click on **"Load unpacked"**.
 
-    [Image: Screenshot of the Chrome extensions page with the "Load unpacked" button highlighted.]
+    ![Image: Screenshot of the Chrome extensions page with the "Load unpacked" button highlighted.](https://github.com/boadley/SplashyCM/blob/main/Screenshot_3.png)
 
 4.  A file dialog will open. Navigate to and select the **unzipped folder** from Step 1.
 5.  The "X Pro - AI Auto Like & Reply Bot" will now appear in your list of extensions. We recommend **pinning it** to your toolbar for easy access.
 
-    [Image: Screenshot showing the extension's card in the `chrome://extensions` list, with an arrow pointing to the pin icon in the Chrome toolbar.]
+    ![Image: Screenshot showing the extension's card in the `chrome://extensions` list, with an arrow pointing to the pin icon in the Chrome toolbar.](https://github.com/boadley/SplashyCM/blob/main/Screenshot_4.png)
 
 ---
 
@@ -50,7 +50,7 @@ Welcome! This guide will walk you through installing, activating, and configurin
 3.  You will see the login screen. Copy your **API Key** from your purchase email and paste it into the field.
 4.  Click **"Validate & Save Key"**. Upon success, the main dashboard will appear.
 
-    [Image: Screenshot of the extension popup showing the API Key input field and the "Validate" button.]
+    ![Image: Screenshot of the extension popup showing the API Key input field and the "Validate" button.](https://github.com/boadley/SplashyCM/blob/main/Screenshot_5.png)
 
 ---
 
@@ -58,7 +58,7 @@ Welcome! This guide will walk you through installing, activating, and configurin
 
 The bot is now active but **Paused** by default. Before you begin, let's review the settings available on the dashboard.
 
-[Image: A full screenshot of the extension's dashboard, with numbered callouts pointing to the sections explained below: (1) Master Toggle, (2) Status Panel, (3) Behavior, (4) Targeting, (5) Custom Persona.]
+![Image: A full screenshot of the extension's dashboard, with numbered callouts pointing to the sections explained below: (1) Master Toggle, (2) Status Panel, (3) Behavior, (4) Targeting, (5) Custom Persona.](https://github.com/boadley/SplashyCM/blob/main/Screenshot_6.png)
 
 #### 1. Master Control & Status
 
@@ -102,4 +102,4 @@ The bot will now begin monitoring your specified columns for new tweets!
 
 For a complete visual walkthrough, please watch our installation guide on YouTube:
 
-➡️ **[Link to Your YouTube Installation Video COMING SOON]**
+➡️ **[Link to YouTube Installation Video COMING SOON]**
